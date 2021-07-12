@@ -13,7 +13,7 @@ export class LoginServiceService {
   constructor(private http: HttpClient) { }
 
   public sendLoginData(data): Observable<any>{
-    return this.http.post(environment.sendLoginData, data).pipe(
+    return this.http.get(environment.sendLoginData, data).pipe(
       map(res => {
         return res;
       }),

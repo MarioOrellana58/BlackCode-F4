@@ -12,6 +12,7 @@ export class LoginComponent implements OnInit, OnDestroy {
   password: string;
   user: string;
   invalidForm: boolean;
+  invalidPassForm: boolean;
 
   constructor(private loginservice : LoginServiceService, private router: Router) {
   
@@ -21,6 +22,7 @@ export class LoginComponent implements OnInit, OnDestroy {
     this.password= '';
     this.user = '';
     this.invalidForm = false;
+    this.invalidPassForm = false;
     
   }
   ngOnDestroy() {
@@ -35,7 +37,13 @@ export class LoginComponent implements OnInit, OnDestroy {
 
       this.loginservice.sendLoginData(model).subscribe(
         (res) => {
-          this.router.navigate(['#/dashboard'])
+          
+          if(res && res.mensaje == "Bienvenido"){
+            this.router.navigate(['#/dashboard']);
+            this.invalidPassForm = false;
+          }else{
+            this.invalidPassForm = true;
+          }
         },
         (err) => {
           console.log(err);
