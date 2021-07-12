@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router } from '@angular/router';
+
 import { LoginServiceService } from 'src/app/services/LoginService/login-service.service';
 
 @Component({
@@ -10,7 +11,7 @@ import { LoginServiceService } from 'src/app/services/LoginService/login-service
 export class LoginComponent implements OnInit, OnDestroy {
 
   password: string;
-  user: string;
+  username: string;
   invalidForm: boolean;
   invalidPassForm: boolean;
 
@@ -20,7 +21,7 @@ export class LoginComponent implements OnInit, OnDestroy {
 
   ngOnInit() {
     this.password= '';
-    this.user = '';
+    this.username = '';
     this.invalidForm = false;
     this.invalidPassForm = false;
     
@@ -37,10 +38,10 @@ export class LoginComponent implements OnInit, OnDestroy {
 
       this.loginservice.sendLoginData(model).subscribe(
         (res) => {
-          
-          if(res && res.mensaje == "Bienvenido"){
+          if(res == "Bienvenido"){
             this.router.navigate(['#/dashboard']);
             this.invalidPassForm = false;
+
           }else{
             this.invalidPassForm = true;
           }

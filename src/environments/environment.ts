@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
 
-  sendLoginData: `localhost:3000/api/license/create`,
+  sendLoginData: `https://itrashapi.azurewebsites.net/api/iTrash`,
 };
 
 
