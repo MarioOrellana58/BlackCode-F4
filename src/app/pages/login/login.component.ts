@@ -39,9 +39,9 @@ export class LoginComponent implements OnInit, OnDestroy {
       this.loginservice.sendLoginData(model).subscribe(
         (res) => {
           if(res == "Bienvenido"){
-            this.router.navigate(['#/dashboard']);
+            this.router.navigate(['/dashboard']);
             this.invalidPassForm = false;
-
+            console.log("res")
           }else{
             this.invalidPassForm = true;
           }

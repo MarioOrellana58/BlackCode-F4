@@ -29,7 +29,7 @@ export class MapsComponent implements OnInit {
           {"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},
           {"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},
           {"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},
-          {"featureType":"water","elementType":"all","stylers":[{"color":'#5e72e4'},{"visibility":"on"}]}]
+          {"featureType":"water","elementType":"all","stylers":[{"color":'#EB5E28'},{"visibility":"on"}]}]
     }
 
     map = new google.maps.Map(map, mapOptions);

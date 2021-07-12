@@ -145,7 +145,7 @@ var colors = {
   },
   theme: {
     'default': '#252422',
-    'primary': '#5e72e4',
+    'primary': '#EB5E28',
     'secondary': '#f4f5f7',
     'info': '#11cdef',
     'success': '#2dce89',
