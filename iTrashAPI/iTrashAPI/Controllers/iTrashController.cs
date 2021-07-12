@@ -15,11 +15,20 @@ namespace iTrashAPI.Controllers
         {
             _context = new iTrashDB();
         }
+
         [Route("api/iTrash")]
-        public string Get()
+        public string Get(string username, string password)
         { 
-            var users = _context.Users.ToList();
-            return "Hello World";
+            var user = _context.Users.FirstOrDefault(x => x.Username == username && x.Password == password);
+
+            if (user == null)
+            {
+                return "Datos incorrectos";
+            }
+            else
+            {
+                return "Bienvenido";
+            }
         }
     }
 }
