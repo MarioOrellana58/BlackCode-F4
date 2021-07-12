@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj": {}
+    "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj": {}
   },
   "projects": {
-    "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj": {
+    "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
+        "projectUniqueName": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
         "projectName": "Single ResponsibilityPrinciple",
-        "projectPath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
+        "projectPath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\obj\\",
+        "outputPath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aebVv7k8nXI9ZlWhz9EtKOhCrX9YKX4JnVvvYUyqX3AAJbVYq9GNjBEgGt51BeN8WZWEux1dFDDQCEB8HDqT+g==",
+  "dgSpecHash": "1XmQ4o7WlWdFfTQ48I/dIdxRLvobXiWXKwZduibS3KGtlP0rng8lOYlkRMTH6vb2MQfK0k7FFObd7xpaMVVhqA==",
   "success": true,
-  "projectFilePath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\Proyecto\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
+  "projectFilePath": "D:\\Ingenieria\\4to año\\Interciclo\\Análisis&Diseño II\\proyecto SOLID\\Single ResponsibilityPrinciple\\Single ResponsibilityPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

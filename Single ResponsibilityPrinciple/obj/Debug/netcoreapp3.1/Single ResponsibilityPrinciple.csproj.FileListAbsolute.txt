@@ -11,3 +11,16 @@ D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\Proyecto\Single Responsib
 D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\Proyecto\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.dll
 D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\Proyecto\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.pdb
 D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\Proyecto\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.genruntimeconfig.cache
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.exe
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.deps.json
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.runtimeconfig.json
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.runtimeconfig.dev.json
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.dll
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\bin\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.pdb
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.csprojAssemblyReference.cache
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.AssemblyInfo.cs
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.dll
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.pdb
+D:\Ingenieria\4to año\Interciclo\Análisis&Diseño II\proyecto SOLID\Single ResponsibilityPrinciple\obj\Debug\netcoreapp3.1\Single ResponsibilityPrinciple.genruntimeconfig.cache
